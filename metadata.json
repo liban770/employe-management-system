@@ -1,0 +1,6 @@
+{
+  "name": "SaaS Employee Management System",
+  "description": "Multi-tenant enterprise SaaS employee and HR operations management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
